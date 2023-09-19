@@ -1,2 +1,2 @@
-window.alert("Hello it is ALert");
+// window.alert("Hello it is ALert");
 
